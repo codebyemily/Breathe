@@ -169,7 +169,6 @@ Remember: First evaluate silently, then either respond with empty string OR give
                 "filters": {
                     "people": [],
                     "entities": [],
-                    "topics": topics
                 }
             }
         }
